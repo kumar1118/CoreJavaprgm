@@ -36,6 +36,7 @@ public class A
 		}
 		System.out.println();
 	}
+	
 	static boolean contains(int data)
 	{
 		A current = head;
